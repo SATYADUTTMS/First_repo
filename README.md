@@ -1,3 +1,3 @@
-# Experiment_1_CS_AMPLIFIER
+# First repo
 This is my first Github repository.
 Author : SATYADUTT_MS
